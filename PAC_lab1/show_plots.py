@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Загрузка данных из results.csv
-data = pd.read_csv('runs/detect/train3/results.csv') #  Укажите правильный путь
+data = pd.read_csv('runs/detect/train6/results.csv') #  Укажите правильный путь
 
 # Вывод первых строк данных
 print(data.head())
